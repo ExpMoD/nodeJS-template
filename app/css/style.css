@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  background-color: #f00;
+}
+#page-wrapper {
+  width: 1000px;
+  background-color: #22ce96;
+}
